@@ -1,0 +1,59 @@
+{
+  "": {
+    "swift-dependencies": "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/master.swiftdeps"
+  },
+  "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/Sources/BTNavigationDropdownMenu/BTNavigationDropdownMenu.swift": {
+    "dependencies": "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/BTNavigationDropdownMenu.d",
+    "object": "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/BTNavigationDropdownMenu.swift.o",
+    "swiftmodule": "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/BTNavigationDropdownMenu~partial.swiftmodule",
+    "swift-dependencies": "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/BTNavigationDropdownMenu.swiftdeps"
+  },
+  "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/Sources/BTNavigationDropdownMenu/BTTitle.swift": {
+    "dependencies": "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/BTTitle.d",
+    "object": "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/BTTitle.swift.o",
+    "swiftmodule": "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/BTTitle~partial.swiftmodule",
+    "swift-dependencies": "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/BTTitle.swiftdeps"
+  },
+  "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/Sources/BTNavigationDropdownMenu/Extension/UIView+Extension.swift": {
+    "dependencies": "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/Extension/UIView+Extension.d",
+    "object": "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/Extension/UIView+Extension.swift.o",
+    "swiftmodule": "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/Extension/UIView+Extension~partial.swiftmodule",
+    "swift-dependencies": "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/Extension/UIView+Extension.swiftdeps"
+  },
+  "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/Sources/BTNavigationDropdownMenu/Extension/UIViewController+Extension.swift": {
+    "dependencies": "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/Extension/UIViewController+Extension.d",
+    "object": "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/Extension/UIViewController+Extension.swift.o",
+    "swiftmodule": "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/Extension/UIViewController+Extension~partial.swiftmodule",
+    "swift-dependencies": "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/Extension/UIViewController+Extension.swiftdeps"
+  },
+  "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/Sources/BTNavigationDropdownMenu/Internal/BTConfiguration.swift": {
+    "dependencies": "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/Internal/BTConfiguration.d",
+    "object": "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/Internal/BTConfiguration.swift.o",
+    "swiftmodule": "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/Internal/BTConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/Internal/BTConfiguration.swiftdeps"
+  },
+  "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/Sources/BTNavigationDropdownMenu/Internal/BTTableCellContentView.swift": {
+    "dependencies": "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/Internal/BTTableCellContentView.d",
+    "object": "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/Internal/BTTableCellContentView.swift.o",
+    "swiftmodule": "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/Internal/BTTableCellContentView~partial.swiftmodule",
+    "swift-dependencies": "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/Internal/BTTableCellContentView.swiftdeps"
+  },
+  "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/Sources/BTNavigationDropdownMenu/Internal/BTTableView.swift": {
+    "dependencies": "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/Internal/BTTableView.d",
+    "object": "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/Internal/BTTableView.swift.o",
+    "swiftmodule": "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/Internal/BTTableView~partial.swiftmodule",
+    "swift-dependencies": "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/Internal/BTTableView.swiftdeps"
+  },
+  "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/Sources/BTNavigationDropdownMenu/Internal/BTTableViewCell.swift": {
+    "dependencies": "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/Internal/BTTableViewCell.d",
+    "object": "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/Internal/BTTableViewCell.swift.o",
+    "swiftmodule": "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/Internal/BTTableViewCell~partial.swiftmodule",
+    "swift-dependencies": "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/Internal/BTTableViewCell.swiftdeps"
+  },
+  "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/DerivedSources/resource_bundle_accessor.swift": {
+    "dependencies": "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/resource_bundle_accessor.d",
+    "object": "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/resource_bundle_accessor.swiftdeps"
+  }
+}

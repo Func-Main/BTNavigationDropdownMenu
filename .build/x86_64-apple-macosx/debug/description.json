@@ -1,0 +1,32 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "\/Users\/danmorgz\/Documents\/work\/dragonstack\/tests\/BTNavigationDropdownMenu\/.build\/x86_64-apple-macosx\/debug\/BTNavigationDropdownMenuPackageTests.xctest\/Contents\/MacOS\/BTNavigationDropdownMenuPackageTests",
+      "packageName" : "BTNavigationDropdownMenu",
+      "productName" : "BTNavigationDropdownMenuPackageTests"
+    }
+  ],
+  "copyCommands" : {
+    "\/Users\/danmorgz\/Documents\/work\/dragonstack\/tests\/BTNavigationDropdownMenu\/.build\/x86_64-apple-macosx\/debug\/BTNavigationDropdownMenu_BTNavigationDropdownMenu.bundle\/BTNavigationDropdownMenu.bundle" : {
+      "inputs" : [
+        {
+          "kind" : "directory",
+          "name" : "\/Users\/danmorgz\/Documents\/work\/dragonstack\/tests\/BTNavigationDropdownMenu\/Sources\/BTNavigationDropdownMenu\/Resources\/BTNavigationDropdownMenu.bundle"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "directory",
+          "name" : "\/Users\/danmorgz\/Documents\/work\/dragonstack\/tests\/BTNavigationDropdownMenu\/.build\/x86_64-apple-macosx\/debug\/BTNavigationDropdownMenu_BTNavigationDropdownMenu.bundle\/BTNavigationDropdownMenu.bundle"
+        }
+      ]
+    }
+  },
+  "swiftTargetMap" : {
+    "C.BTNavigationDropdownMenu-debug.module" : "BTNavigationDropdownMenu",
+    "C.BTNavigationDropdownMenuTests-debug.module" : "BTNavigationDropdownMenuTests"
+  },
+  "testDiscoveryCommands" : {
+
+  }
+}

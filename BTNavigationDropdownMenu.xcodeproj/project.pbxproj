@@ -107,14 +107,22 @@
 		BADDA31E262862F100C9CAC3 /* BTNavigationDropdownMenu */ = {
 			isa = PBXGroup;
 			children = (
+				BADDA37D262869FA00C9CAC3 /* Resources */,
 				AA8E37D221830B69009609E6 /* BTNavigationDropdownMenu.swift */,
 				AA8E37D321830B69009609E6 /* BTTitle.swift */,
 				AA8E37D421830B69009609E6 /* Extension */,
 				AA8E37D721830B69009609E6 /* Internal */,
-				AA8E37DC21830B69009609E6 /* BTNavigationDropdownMenu.bundle */,
 				AA8E37DD21830B69009609E6 /* Info.plist */,
 			);
 			path = BTNavigationDropdownMenu;
+			sourceTree = "<group>";
+		};
+		BADDA37D262869FA00C9CAC3 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				AA8E37DC21830B69009609E6 /* BTNavigationDropdownMenu.bundle */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

@@ -1,0 +1,4 @@
+module BTNavigationDropdownMenu {
+    header "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/BTNavigationDropdownMenu-Swift.h"
+    requires objc
+}

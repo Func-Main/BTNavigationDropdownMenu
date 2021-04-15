@@ -46,8 +46,7 @@ final class BTConfiguration {
     
     init() {
         // Path for image
-        let bundle = Bundle(for: BTConfiguration.self)
-        let url = bundle.url(forResource: "BTNavigationDropdownMenu", withExtension: "bundle")
+        let url = Bundle.module.url(forResource: "BTNavigationDropdownMenu", withExtension: "bundle")
         let imageBundle = Bundle(url: url!)
         let checkMarkImagePath = imageBundle?.path(forResource: "checkmark_icon", ofType: "png")
         let arrowImagePath = imageBundle?.path(forResource: "arrow_down_icon", ofType: "png")

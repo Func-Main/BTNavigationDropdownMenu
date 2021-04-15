@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "c71462c477fa9c4db901025962662262"
+build_time: [1618490225, 815496000]
+inputs:
+  "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/Sources/BTNavigationDropdownMenu/BTNavigationDropdownMenu.swift": !dirty [1618484328, 649784744]
+  "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/Sources/BTNavigationDropdownMenu/BTTitle.swift": !dirty [1618484328, 650021798]
+  "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/Sources/BTNavigationDropdownMenu/Extension/UIView+Extension.swift": !dirty [1618484328, 650281972]
+  "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/Sources/BTNavigationDropdownMenu/Extension/UIViewController+Extension.swift": !dirty [1618484328, 650464532]
+  "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/Sources/BTNavigationDropdownMenu/Internal/BTConfiguration.swift": !dirty [1618489923, 315034788]
+  "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/Sources/BTNavigationDropdownMenu/Internal/BTTableCellContentView.swift": !dirty [1618484328, 651119278]
+  "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/Sources/BTNavigationDropdownMenu/Internal/BTTableView.swift": !dirty [1618484328, 651285046]
+  "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/Sources/BTNavigationDropdownMenu/Internal/BTTableViewCell.swift": !dirty [1618484328, 651416150]
+  "/Users/danmorgz/Documents/work/dragonstack/tests/BTNavigationDropdownMenu/.build/x86_64-apple-macosx/debug/BTNavigationDropdownMenu.build/DerivedSources/resource_bundle_accessor.swift": !dirty [1618490225, 770568564]
